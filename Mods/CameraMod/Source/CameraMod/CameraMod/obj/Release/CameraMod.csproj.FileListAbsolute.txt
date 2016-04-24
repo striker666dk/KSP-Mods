@@ -1,0 +1,4 @@
+C:\Users\Elvborn\Documents\GitHub\KSP Mods\Mods\CameraMod\Mod\Plugins\CameraMod.dll
+C:\Users\Elvborn\Documents\GitHub\KSP Mods\Mods\CameraMod\Source\CameraMod\CameraMod\obj\Release\CameraMod.csprojResolveAssemblyReference.cache
+C:\Users\Elvborn\Documents\GitHub\KSP Mods\Mods\CameraMod\Source\CameraMod\CameraMod\obj\Release\CameraMod.dll
+C:\Users\Elvborn\Documents\GitHub\KSP Mods\Mods\CameraMod\CameraMod\Plugins\CameraMod.dll
